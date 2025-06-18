@@ -5,5 +5,6 @@ Third message with local change with different message.
 Third message with local change with diff message put conflict on same line 
 Adding message in main to check whether conflict arises.
 So removed changes in first_b and kept changes from main branch inorder to resolve conflict.
+Adding changes to check git fetch and git merge
 
 
