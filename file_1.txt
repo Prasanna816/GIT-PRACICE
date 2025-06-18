@@ -3,3 +3,5 @@ Second message to check alllowing to pull with local changes.
 Third message to check with diff message
 Third message with local change with different message.
 Third message with local change with diff message put conflict on same line 
+Adding change in file for git merge in first_branch
+
