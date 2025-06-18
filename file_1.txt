@@ -1,3 +1,5 @@
 First message for first commit
 Second message to check alllowing to pull with local changes.
-Third message to check with diff message.
+Third message to check with diff message
+Third message with local change with different message.
+Third message with local change with diff message put conflict on same line 
