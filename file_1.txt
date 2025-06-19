@@ -4,4 +4,6 @@ Third message to check with diff message
 Third message with local change with different message.
 Third message with local change with diff message put conflict on same line
 Adding message in main to check whether conflict arises.
+adding to check whether no switching with local changes.
+
 
