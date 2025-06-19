@@ -1,0 +1,51 @@
+[33mcommit f33565a7f51aa4c60e8949a725e1d3ab7ecc8845[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msecond_b[m[33m)[m
+Author: Prasanna816 <prasanna.karunanidhi@edveon.com>
+Date:   Thu Jun 19 08:14:06 2025 +0530
+
+    commit for rebase
+    
+    commit for rebase 2
+
+[33mcommit c154277eeb47e214f6832bfaeaeeb6e6efd26647[m
+Author: Prasanna816 <prasanna.karunanidhi@edveon.com>
+Date:   Thu Jun 19 08:12:01 2025 +0530
+
+    remove commit
+
+[33mcommit be48ec9be4ec91b73334aa3ffbda0e1ac65fd1be[m[33m ([m[1;31morigin/second_b[m[33m)[m
+Author: Prasanna816 <prasanna.karunanidhi@edveon.com>
+Date:   Thu Jun 19 07:49:27 2025 +0530
+
+    adding change to merge s_b and f_b
+
+[33mcommit b3cde667630a9249bc32b36cc6f68600cd682843[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Prasanna816 <prasanna.karunanidhi@edveon.com>
+Date:   Wed Jun 18 14:39:24 2025 +0530
+
+    Checking for conflict
+
+[33mcommit fc0087d4ce2b401c080f486b5ec0a16c7ee3b618[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Prasanna816 <prasanna.karunanidhi@edveon.com>
+Date:   Wed Jun 18 08:28:16 2025 +0530
+
+    After resolving conflict
+
+[33mcommit 0a912de7a67085aa71b4b53ed03f83c3ea01ded3[m
+Author: Prasanna <prasanna.karunanidhi@edveon.com>
+Date:   Wed Jun 18 08:13:19 2025 +0530
+
+    Update file_1.txt
+
+[33mcommit aa1db38e0211fedfede6b75f43edf2b16b5e0186[m
+Author: Prasanna <prasanna.karunanidhi@edveon.com>
+Date:   Wed Jun 18 08:09:04 2025 +0530
+
+    Update file_1.txt
+    
+    pull with local changes
+
+[33mcommit cf9907a8f8784002926283e25ccb31b07af7d420[m
+Author: Prasanna816 <prasanna.karunanidhi@edveon.com>
+Date:   Wed Jun 18 08:04:50 2025 +0530
+
+    First commit
