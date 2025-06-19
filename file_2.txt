@@ -1,1 +1,2 @@
-dding message for commit task.
+Adding message for commit task.
+Adding for same commit task.
