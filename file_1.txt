@@ -4,15 +4,8 @@ Third message to check with diff message
 Third message with local change with different message.
 Third message with local change with diff message put conflict on same line 
 Adding message in main to check whether conflict arises.
-adding to check whether no switching with local changes.
-
 So removed changes in first_b and kept changes from main branch inorder to resolve conflict.
 Adding changes to check git fetch and git merge
-Adding to 13124 87785 remove commit.
-
-Adding change for task1.
-Adding change for TASK_2.
-
-
+Adding for TASK_2.
 
 
